@@ -6,4 +6,6 @@
 
 我最近在学习windows开发和驱动开发, 开发些可以用于安全的工具, 我也很想试一试rust!
 
+我最近会将我学习中编写的代码和一些有意思的想法的实现发布到这个账号里！
+
 我很想为你介绍我的朋友 [dakaishizhong](https://github.com/dakaishizhong), 他很少在github编程, 但是他是一个很有趣的人!
